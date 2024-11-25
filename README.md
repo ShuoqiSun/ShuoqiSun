@@ -9,4 +9,4 @@
 💬 &nbsp;Feel free to reach out for collaborations or engaging discussions on these topics.\
 ✉️ &nbsp;You can shoot me an email at shuoqi.sun@student.rmit.edu.au!
 
-📄 &nbsp;[Personal Webpage(not available)](https://shuoqisun.github.io) 🌱 &nbsp;[Google Scholar](https://scholar.google.com.au/citations?user=qrSLoU4AAAAJ&hl=en)
+📄 &nbsp;[Personal Webpage](https://shuoqisun.github.io) 🌱 &nbsp;[Google Scholar](https://scholar.google.com.au/citations?user=qrSLoU4AAAAJ&hl=en)
