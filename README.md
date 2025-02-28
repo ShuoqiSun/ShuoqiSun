@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I am a first-year PhD study at RMIT Univeristy.\
+🎓 &nbsp;I am a first-year PhD student at RMIT Univeristy.\
 👨‍💻 &nbsp;I was [a casual research assistant and intern](https://hangli.me/ielab.github.io-v1/members/shuoqi-sun.html) in [ielab](http://ielab.io), The University of Queensland.\
 💡 &nbsp;I have board interests in information retrieval (IR) and web search system.\
 💡 &nbsp;I currently work on these topics: conversational search systems, interactive IR (IIR) and human-computer interaction (HCI).\
